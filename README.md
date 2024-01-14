@@ -1,5 +1,5 @@
 # Dashboard app - Next.js Tutorial
-This is a space to practice developing using the Next.js framework. After completing the inital training material from the Next.js website I moved onto the the [Dashboard App Tutorial](https://nextjs.org/learn/dashboard-app/getting-started). As part of this I had to delete the current app files created in the basic learning, please view commit [849815e](https://github.com/Tiff-C/bug-free-waddle/commit/849815efa6b2c5c1143405b35409076acef28e9d).
+This is a space to practice developing using the Next.js framework. After completing the inital training material from the Next.js website I moved onto the the [Dashboard App Tutorial](https://nextjs.org/learn/dashboard-app/getting-started). As part of this I had to delete the current app files created in the basic learning, please view commit [849815e](https://github.com/Tiff-C/bug-free-waddle/commit/849815efa6b2c5c1143405b35409076acef28e9d). The notes below are intened to be used as reference when creating future next.js projects. 
 
 ## Getting started
 
